@@ -1,0 +1,22 @@
+body {
+    background-color: #E0E3DA;
+    padding-left: 50px;
+    padding-top: 15px;
+}
+
+h1 {
+    color: #566270;
+    font-size: 50px;
+
+
+}
+
+p {
+    padding-top: 5px;
+}
+
+div {
+    height: 200px;
+    width: 50%;
+
+}
